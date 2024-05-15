@@ -1,3 +1,3 @@
-### QR code Generator png image
+### QR code Generator in png image
 
 Dependencies: inquirer, qr-image
